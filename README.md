@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently learning to connect Frontend and Backend to develop Full Stack Projects.<br>🎯 Goals: Having fun while learning new things. <br>🎲 Fun fact: I come from a landlocked country but I like the sea more than mountains.</p>
+<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently learning to build Full Stack Projects.<br>🎯 Goals: Having fun while learning new things. <br>🎲 Fun fact: I come from a landlocked country but I like the sea more than mountains.</p>
 
 ###
 
