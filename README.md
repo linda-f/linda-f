@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Linda and I'm a Web Developer.</p>
+<p align="left">My name is Linda and I'm a Web Developer. I like to challenge myself to keep on learning.</p>
 
 ###
 
