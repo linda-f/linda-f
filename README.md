@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Linda and I'm a Web Developer. I like to challenge myself to keep on learning.</p>
+<p align="left">My name is Linda and I'm a Web Developer. I like to challenge myself to keep on learning new things in coding and elsewhere.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023.<br>📚 I just completed a half year Web Dev Bootcamp and am now looking for a job opportunity in this field.<br>🎯 Goals: Having fun while learning new things. <br>🎲 Fun fact: I come from a landlocked country but I like the sea more than mountains.</p>
+<p align="left">✨ Creating bugs since January 2024.<br>📚 I just completed a half year Web Dev Bootcamp and am now looking for a job opportunity in this field.<br>🎯 Goals: Having fun while learning new things. <br>🎲 Fun fact: I come from a landlocked country but I like the sea more than mountains.</p>
 
 ###
 
