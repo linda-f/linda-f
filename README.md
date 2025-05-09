@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since January 2024.<br>📚 I just completed a half year Web Dev Bootcamp and am now looking for a job opportunity in this field.<br>🎯 Goals: Having fun while learning new things. <br>🎲 Fun fact: I come from a landlocked country but I like the sea more than mountains.</p>
+<p align="left">✨ Creating bugs since January 2024.<br>📚 I got into coding through a bootcamp. I am still involved, however I work a lot more with CMS like Wordpress now.<br>🎯 Goals: Having fun while learning new things. <br>🎲 Fun fact: I come from a landlocked country but I like the sea more than mountains. That's why I am currently in Australia doing a Divemaster qualification.</p>
 
 ###
 
